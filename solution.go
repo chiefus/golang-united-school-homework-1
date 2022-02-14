@@ -1,4 +1,4 @@
-package chiefuslecture00
+package solution
 
 import (
 	"github.com/kyokomi/emoji/v2"
