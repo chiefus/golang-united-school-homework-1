@@ -13,3 +13,4 @@ After registration, please authorize the platform to use your `github` account, 
 You might code in any IDEA or TextEditor for the development, to sumbit the code you just need to commit it to the specific branch, after that you will have an ability to submit code on the platform and get all test results.
 
 Good Luck!
+
