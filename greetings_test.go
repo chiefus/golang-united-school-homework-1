@@ -5,12 +5,12 @@ import (
 	"testing"
 )
 
-var greetingsText = "Hello 🗺️ !"
+var messageText = "Hello 🗺️ !"
 
-func TestGreetingFunc(t *testing.T) {
-	greetings := GetGreetings()
-	if greetingsText != greetings {
-		t.Error("GetGreetings returned unexpected value")
+func TestGetMessage(t *testing.T) {
+	message := GetMessage()
+	if messageText != message {
+		t.Error("GetMessage returned unexpected value")
 	}
-	fmt.Println(greetings)
+	fmt.Println(message)
 }
